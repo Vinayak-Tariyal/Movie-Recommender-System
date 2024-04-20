@@ -1,5 +1,5 @@
 # Movie-recommender-system
-<hr>
+<br>
 
 ## Deployment Link
 https://movie-recommender-system-by-duke.streamlit.app/
